@@ -1,0 +1,6 @@
+name: AntiNetherite
+version: ${project.version}
+main: net.obesephoenix.antinetherite.AntiNetherite
+api-version: 1.17
+authors: [ Obesephoenix ]
+description: A plugin that disables netherite by checking and removing it from player's inventories at a given interval.
